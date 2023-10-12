@@ -29,7 +29,7 @@
 ### Tech
 
 <div align="center">  
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/LioXP/LioXP/main/deno.svg" alt="Deno" height="50" /></a>  
+<a href="https://deno.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/LioXP/LioXP/main/deno.svg" alt="Deno" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/LioXP/LioXP/main/nodejs.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/LioXP/LioXP/main/express.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/LioXP/LioXP/main/mongoDB.svg" alt="MongoDB" height="50" /></a>  
